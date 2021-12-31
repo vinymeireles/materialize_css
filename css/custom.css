@@ -1,0 +1,22 @@
+parallax-container {
+    height: 250px;
+  }
+
+  .waves-effect.waves-cor .waves-ripple {
+    /* The alpha value allows the text and background color
+    of the button to still show through. */
+     background-color: red;
+   }
+
+ 
+  html, body {
+    height: 100%;
+  }
+        
+  @media only screen and (min-width: 993px) {
+    .container {
+      width: 90%;
+    }
+  }  
+
+  
